@@ -76,7 +76,7 @@ global.mess = {
 }
 
 //--------------- Menu images ----------------\\
-global.Menuimage = fs.readFileSync("./AnyaPikaMedia/theme/Menu/EQ6DosXUcAAvIKU.jpeg)
+global.Menuimage = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg4.jpeg")
 global.thumnnaiIs = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg3.jpeg")
 
 //--------------- Systemic Function --------------\\
