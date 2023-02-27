@@ -33,8 +33,8 @@ global.prefa = ['-']
 
 //--------Random bot name for Info section--------\\
 name16 = "VERGIL"
-name17 = "*VIRGILIO"
-name18 = "*VIRGIN"
+name17 = "VERGIL"
+name18 = "VERGIL"
 
 //--------Random footer message-----------\\
 footer1 = `VERGIL`
