@@ -45,16 +45,16 @@ nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻'
 nikalmsg2 = 'Patt se headshot 🔫...Abey dil se bura lagta hai bhai 😂.'
 
 //--------Random Tagall msg--------\\
-tag1 = 'PATHETIC!' 
-tag2 = 'WHERES YOUR MOTIVATION?' 
-tag3 = 'SCUM'
-tag4 = 'NOW I FEEL MOTIVATED' 
-tag5 = 'I NEED MORE POWER!'
-tag6 = 'MORE POWER!' 
-tag7 = 'FOOLISHNESS DANTE'
-tag8 = 'KNEEL BEFORE ME!' 
-tag9 = 'POWER!' 
-tag10 = 'ITS PAST YOUR BEDTIME!' 
+tag1 = '𝘗𝘈𝘛𝘏𝘌𝘛𝘐𝘊!' 
+tag2 = '𝘞𝘏𝘌𝘙𝘌𝘚 𝘠𝘖𝘜𝘙 𝘔𝘖𝘛𝘐𝘝𝘈𝘛𝘐𝘖𝘕?' 
+tag3 = '𝘚𝘊𝘜𝘔'
+tag4 = '𝘕𝘖𝘞 𝘐 𝘍𝘌𝘌𝘓 𝘔𝘖𝘛𝘐𝘝𝘈𝘛𝘌𝘋' 
+tag5 = '𝘐 𝘕𝘌𝘌𝘋 𝘔𝘖𝘙𝘌 𝘗𝘖𝘞𝘌𝘙!'
+tag6 = '𝘔𝘖𝘙𝘌 𝘗𝘖𝘞𝘌𝘙!' 
+tag7 = '𝘍𝘖𝘖𝘓𝘐𝘚𝘏𝘕𝘌𝘚𝘚 𝘋𝘈𝘕𝘛𝘌'
+tag8 = '𝘒𝘕𝘌𝘌𝘓 𝘉𝘌𝘍𝘖𝘙𝘌 𝘔𝘌!' 
+tag9 = '𝘗𝘖𝘞𝘌𝘙!' 
+tag10 = '𝘐𝘛𝘚 𝘗𝘈𝘚𝘛 𝘠𝘖𝘜𝘙 𝘉𝘌𝘋𝘛𝘐𝘔𝘌!' 
 
 
 global.mess = {
